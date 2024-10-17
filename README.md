@@ -3,4 +3,5 @@ This project features a 1-degree-of-freedom (1-DOF) helicopter system controlled
 
 Hardware Structure 
 -------------------
-![image](https://github.com/user-attachments/assets/cca97763-ec80-443c-a72b-f59651c40617)
+![image](https://github.com/user-attachments/assets/cca97763-ec80-443c-a72b-f59651c40617) ![connection](https://github.com/user-attachments/assets/51901210-076e-4f79-b5a8-4b888eef1bf6)
+
