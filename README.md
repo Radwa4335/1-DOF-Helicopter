@@ -1,7 +1,14 @@
 # 1-DOF-Helicopter with PD Controller
-This project features a 1-degree-of-freedom (1-DOF) helicopter system controlled using a Proportional-Derivative (PD) controller. The setup aims to simulate the dynamic behavior of a simplified helicopter model, focusing on the control of its pitch angle. The PD controller is implemented to ensure stable and precise attitude control by minimizing errors in the system. This project is a hands-on demonstration of control theory applications in aerospace systems.
+Project Overview
+------------------
+This project demonstrates the design and implementation of a 1-degree-of-freedom (1-DOF) helicopter model controlled using a Proportional-Derivative (PD) controller. The system focuses on controlling the pitch angle of the helicopter using real-time feedback from sensors and a control loop.
 
-Hardware Structure 
--------------------
-![image](https://github.com/user-attachments/assets/cca97763-ec80-443c-a72b-f59651c40617) ![connection](https://github.com/user-attachments/assets/51901210-076e-4f79-b5a8-4b888eef1bf6)
+System Components
+------------------
+Arduino UNO: Used for signal processing and control implementation.
+Coreless Motor: Drives the helicopter’s pitch movement.
+MPU 6050 IMU Sensor: Provides real-time feedback on the helicopter's pitch angle.
 
+Implementation
+-----------------
+The LabVIEW LINX Toolkit was used to interface with the Arduino UNO using serial communication. 
